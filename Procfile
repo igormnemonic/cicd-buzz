@@ -1,1 +1,1 @@
-web: gunicorn igor-cicd-1.wsgi
+web: gunicorn app:app
